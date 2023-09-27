@@ -1,0 +1,10 @@
+C:\Users\kirill\Desktop\projects\home\c#\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\kirill\Desktop\projects\home\c#\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\kirill\Desktop\projects\home\c#\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\kirill\Desktop\projects\home\c#\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\kirill\Desktop\projects\home\c#\Calculator\Calculator\obj\Debug\Calculator.Calculator_window.resources
+C:\Users\kirill\Desktop\projects\home\c#\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\kirill\Desktop\projects\home\c#\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\kirill\Desktop\projects\home\c#\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\kirill\Desktop\projects\home\c#\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\kirill\Desktop\projects\home\c#\Calculator\Calculator\obj\Debug\Calculator.pdb
