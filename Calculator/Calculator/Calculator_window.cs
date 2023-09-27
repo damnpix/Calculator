@@ -19,7 +19,7 @@ namespace Calculator
             SendMessage(input.Handle, 0xd3, (UIntPtr)0x3, (IntPtr)0x00040004);
         }
 
-        int HW_WIDTH = 380, HW_HEIGHT = 526, MHW_WIDTH = 465;
+        int HW_WIDTH = 380, HW_HEIGHT = 516, MHW_WIDTH = 465;
         double TV_VALUE = 0;
         string REG_DOUBLE = "([-]?\\d+[.]\\d*)|(\\d+)|(-\\d+)";
         char SO_OPERATOR = ' ';
